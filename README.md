@@ -10,7 +10,7 @@
 <p align="right">
 <img width="375" height="394" alt="01" src="https://github.com/user-attachments/assets/98d9d79b-764a-49d3-87b1-8777edd4ebba" />
 </p>
----
+
 
 ### ✨ ویژگی‌های کلیدی
 
