@@ -1,8 +1,9 @@
 # اپلیکیشن WiFi Reconnector
 
 یک ابزار دسکتاپ هوشمند برای ویندوز که به طور خودکار اتصال اینترنت شما را پایدار نگه می‌دارد.
-
+<p align="center">
 <img width="375" height="394" alt="01" src="https://github.com/user-attachments/assets/98d9d79b-764a-49d3-87b1-8777edd4ebba" />
+</p>
 
 ---
 
