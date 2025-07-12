@@ -31,7 +31,7 @@
 
 ### 🚀 شروع به کار
 
-1.  به بخش [Releases](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases) در همین صفحه بروید.
+1.  به بخش [Releases](https://github.com/iaghapour/WiFi-Reconnector/releases/tag/wifi) در همین صفحه بروید.
 2.  آخرین نسخه از فایل `WiFi.Reconnector.exe` را دانلود کنید.
 3.  فایل را در هر پوشه‌ای که دوست دارید قرار داده و اجرا کنید. به همین سادگی!
 
